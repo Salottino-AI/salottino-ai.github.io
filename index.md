@@ -28,14 +28,16 @@ Il modulo chiede solo:
 4. **Descrizione** (massimo 2 frasi)  
 
 ## Prossimi incontri
+
 | Data | Speaker | Titolo | Materiali |
 |------|---------|--------|-----------|
-| _TBD_ | | | |
+| _TBD_ | – | – | – |
 
 ## Archivio talk
-| Data | Speaker | Titolo | Materiali |
-|------|---------|--------|-----------|
-| 2025-05-20 | - | - | - |
+
+| Data       | Speaker | Titolo | Materiali |
+|------------|---------|--------|-----------|
+| 2025-05-20 | –       | –      | –         |
 
 ## Contatti
 * Email: piero.molino@gmail.com
