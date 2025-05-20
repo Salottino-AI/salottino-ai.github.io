@@ -11,7 +11,7 @@ Siamo un gruppo informale di ricercatori e professionisti **italiani** di Intell
 
 ## Come funziona
 * Ogni incontro prevede **3 slot**: **20 min** di presentazione seguiti da **20 min** di discussione.
-* Se le proposte superano i tre slot, diamo precedenza a chi **non ha parlato** nell’incontro precedente.
+* Se le proposte superano i tre slot, al prossimo incontro diamo precedenza a chi **non ha presentato** nell’incontro precedente.
 * L’evento è riservato ai membri della community e a ospiti personali, **spazio permettendo**.
 * La lingua dei talk e delle discussioni è l'**italiano**.
 
