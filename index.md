@@ -34,7 +34,7 @@ Il modulo chiede solo:
 
 | Data | Relatore | Titolo | Materiali |
 |------|---------|--------|-----------|
-| _TBD_ | – | – | – |
+| _TBD_ | Cosimo Spera | Da GenAI a risposte verificate e riutilizzabili: il Rinascimento della Logica del Primo Ordine | – |
 
 ## Archivio talk
 
