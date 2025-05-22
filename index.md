@@ -8,7 +8,8 @@ description: "Mini-conferenze tra ricercatori e professionisti italiani di Intel
 @import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
 
 .markdown-body {
-  font-family: 'Manrope'-bold, serif;
+  font-family: 'Manrope'-bold, sans-serif;
+  font-variant-ligatures: common-ligatures;
 }
 </style>
 
