@@ -1,10 +1,14 @@
-<link rel="stylesheet" href="style.css">
-
 ---
 layout: default
 title: "Salottino AI"
 description: "Mini-conferenze tra ricercatori e professionisti italiani di Intelligenza Artificiale nella Bay Area."
 ---
+
+<style>
+body {
+  font-family: "Georgia", serif;
+}
+</style>
 
 # Salottino AI
 
