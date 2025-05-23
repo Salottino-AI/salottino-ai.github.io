@@ -49,7 +49,7 @@ Il modulo chiede solo:
 
 | Data       | Speaker | Titolo | Materiali |
 |------------|---------|--------|-----------|
-| 2025-05-20 | Pierluca D'Oro | Le quattro ere moderne dell'apprendimento per rinforzo | –         |
+| 2025-05-20 | Pierluca D'Oro | Le quattro ere moderne dell'apprendimento per rinforzo | [Presentazione](https://docs.google.com/presentation/d/1LvRTdd_n9tWFnJWoB-Y13a9sMTvu313JqPXVa9rO4Xk/edit?usp=sharing)         |
 | 2025-05-20 | Francesco Mosconi | AI e geopolitica. Che ruolo ha l’Italia? Conversazione Aperta | –         |
 
 ## Contatti
